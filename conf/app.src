@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/charlesabarnes/SPFtoolbox/archive/v1.00.tar.gz
+SOURCE_SUM=63dc01838476e37d843df13953ea9474779f4011fe87522d00b6d21ecc4cd8aa
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
