@@ -8,7 +8,7 @@
     },
     "version": "1.0",
     "url": "http://spftoolbox.com/",
-    "license": "GPL-3",
+    "license": "GPL-3.0-or-later",
     "maintainer": {
         "name": "frju365",
         "email": "abld@tutanota.com",
