@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/charlesabarnes/SPFtoolbox/archive/62a1285ebd16dc8f7c1ffb0e7559908a226c462d.tar.gz
-SOURCE_SUM=2cb0ccc746d6e1564ffafbabde2a5f53cd0aa2ffc87f8df94e23366afb1a58e6
+SOURCE_URL=https://github.com/charlesabarnes/SPFtoolbox/archive/e39613896e16516a0456e368a03d2b27e14bfd69.tar.gz
+SOURCE_SUM=f1078cf4966e0bd22e06b69d8ac949f2e372e15fecacfc770e2b2a8e083335d2
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
