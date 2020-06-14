@@ -1,9 +1,9 @@
 # SPFtoolbox for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)  
-[![Install spftoolbox with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=spftoolbox)
+[![Install SPFtoolbox with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=spftoolbox)
 
-> *This package allows you to install spftoolbox quickly and simply on a YunoHost server.  
+> *This package allows you to install SPFtoolbox quickly and simply on a YunoHost server.  
 If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/install) to learn how to install it.*
 
 ## Overview
