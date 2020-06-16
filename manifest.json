@@ -1,12 +1,12 @@
 {
-    "name": "SPFToolBox",
+    "name": "SPFtoolbox",
     "id": "spftoolbox",
     "packaging_format": 1,
     "description": {
         "en": "Application to check Domain Name settings.",
         "fr": "Application qui permet de tester son nom de domaine."
     },
-    "version": "1.1",
+    "version": "1.1~ynh2",
     "url": "http://spftoolbox.com/",
     "license": "MIT",
     "maintainer": {
@@ -15,12 +15,12 @@
         "url": "https://www.abld.info"
     },
     "requirements": {
-        "yunohost": ">= 2.7.2"
+        "yunohost": ">= 3.5"
     },
     "multi_instance": true,
     "services": [
         "nginx",
-        "php5-fpm",
+        "php7.0-fpm",
         "mysql"
     ],
     "arguments": {
