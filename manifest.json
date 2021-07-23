@@ -33,8 +33,8 @@
             {
                 "name": "path",
                 "type": "path",
-                "example": "/example",
-                "default": "/example"
+                "example": "/spftoolbox",
+                "default": "/spftoolbox"
             },
             {
                 "name": "is_public",
