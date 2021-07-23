@@ -3,11 +3,17 @@
     "id": "spftoolbox",
     "packaging_format": 1,
     "description": {
-        "en": "Application to check Domain Name settings.",
-        "fr": "Application qui permet de tester son nom de domaine."
+        "en": "Application app to look up DNS records such as SPF, MX, Whois, and more",
+        "fr": "Application pour rechercher des enregistrements DNS tels que SPF, MX, Whois, etc."
     },
     "version": "2.1.1~ynh1",
     "url": "http://spftoolbox.com/",
+    "upstream": {
+        "license": "MIT",
+        "website": "http://spftoolbox.com/",
+        "demo": "http://spftoolbox.com/",
+        "code": "https://github.com/charlesabarnes/SPFtoolbox"
+    },
     "license": "MIT",
     "maintainer": {
         "name": "frju365",
