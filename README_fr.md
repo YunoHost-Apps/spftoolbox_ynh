@@ -1,0 +1,42 @@
+# SPFtoolbox pour YunoHost
+
+[![Niveau d'intégration](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)  
+[![Installer SPFtoolbox avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
+
+*[Read this readme in english.](./README.md)*
+*[Lire ce readme en français.](./README_fr.md)*
+
+> *Ce package vous permet d'installer SPFtoolbox rapidement et simplement sur un serveur YunoHost.
+Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+
+## Vue d'ensemble
+
+Application pour rechercher des enregistrements DNS tels que SPF, MX, Whois, etc.
+
+**Version incluse :** 2.1.1~ynh1
+
+**Démo :** http://spftoolbox.com/
+
+## Captures d'écran
+
+![](./doc/screenshots/687474703a2f2f692e696d6775722e636f6d2f4143785a5074512e706e67.png)
+
+## Documentations et ressources
+
+* Site officiel de l'app : http://spftoolbox.com/
+* Dépôt de code officiel de l'app : https://github.com/charlesabarnes/SPFtoolbox
+* Documentation YunoHost pour cette app : https://yunohost.org/app_spftoolbox
+* Signaler un bug : https://github.com/YunoHost-Apps/spftoolbox_ynh/issues
+
+## Informations pour les développeurs
+
+Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/spftoolbox_ynh/tree/testing).
+
+Pour essayer la branche testing, procédez comme suit.
+```
+sudo yunohost app install https://github.com/YunoHost-Apps/spftoolbox_ynh/tree/testing --debug
+ou
+sudo yunohost app upgrade spftoolbox -u https://github.com/YunoHost-Apps/spftoolbox_ynh/tree/testing --debug
+```
+
+**Plus d'infos sur le packaging d'applications :** https://yunohost.org/packaging_apps
