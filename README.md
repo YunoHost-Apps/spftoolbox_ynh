@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Application app to look up DNS records such as SPF, MX, Whois, and more
+Look up DNS records such as SPF, MX, Whois, and more
 
 **Shipped version:** 2.1.1~ynh1
 

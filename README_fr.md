@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Application pour rechercher des enregistrements DNS tels que SPF, MX, Whois, etc.
+Recherchez des enregistrements DNS tels que SPF, MX, Whois, etc.
 
 **Version incluse :** 2.1.1~ynh1
 
