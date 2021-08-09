@@ -3,11 +3,17 @@
     "id": "spftoolbox",
     "packaging_format": 1,
     "description": {
-        "en": "Application to check Domain Name settings.",
-        "fr": "Application qui permet de tester son nom de domaine."
+        "en": "Look up DNS records such as SPF, MX, Whois, and more",
+        "fr": "Recherchez des enregistrements DNS tels que SPF, MX, Whois, etc."
     },
-    "version": "1.1~ynh2",
+    "version": "2.1.1~ynh1",
     "url": "http://spftoolbox.com/",
+    "upstream": {
+        "license": "MIT",
+        "website": "http://spftoolbox.com/",
+        "demo": "http://spftoolbox.com/",
+        "code": "https://github.com/charlesabarnes/SPFtoolbox"
+    },
     "license": "MIT",
     "maintainer": {
         "name": "frju365",
@@ -15,42 +21,29 @@
         "url": "https://www.abld.info"
     },
     "requirements": {
-        "yunohost": ">= 3.5"
+        "yunohost": ">= 4.2.4"
     },
     "multi_instance": true,
     "services": [
         "nginx",
-        "php7.0-fpm",
-        "mysql"
+        "php7.3-fpm"
     ],
     "arguments": {
         "install" : [
             {
                 "name": "domain",
                 "type": "domain",
-                "ask": {
-                    "en": "Choose a domain name for SPFToolBox",
-                    "fr": "Choisissez un nom de domaine pour SPFToolBox"
-                },
                 "example": "example.com"
             },
             {
                 "name": "path",
                 "type": "path",
-                "ask": {
-                    "en": "Choose a path for SPFToolBox",
-                    "fr": "Choisissez un chemin pour SPFToolBox"
-                },
-                "example": "/example",
-                "default": "/example"
+                "example": "/spftoolbox",
+                "default": "/spftoolbox"
             },
             {
                 "name": "is_public",
                 "type": "boolean",
-                "ask": {
-                    "en": "Is it a public application?",
-                    "fr": "Est-ce une application publique ?"
-                },
                 "default": true
             }
         ]
