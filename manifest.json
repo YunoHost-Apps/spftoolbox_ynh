@@ -3,8 +3,8 @@
     "id": "spftoolbox",
     "packaging_format": 1,
     "description": {
-        "en": "Application app to look up DNS records such as SPF, MX, Whois, and more",
-        "fr": "Application pour rechercher des enregistrements DNS tels que SPF, MX, Whois, etc."
+        "en": "Look up DNS records such as SPF, MX, Whois, and more",
+        "fr": "Recherchez des enregistrements DNS tels que SPF, MX, Whois, etc."
     },
     "version": "2.1.1~ynh1",
     "url": "http://spftoolbox.com/",
