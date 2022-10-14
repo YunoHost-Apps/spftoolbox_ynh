@@ -76,14 +76,6 @@ chmod -R o-rwx "$final_path"
 chown -R $app:www-data "$final_path"
 
 #=================================================
-# NGINX CONFIGURATION
-#=================================================
-ynh_script_progression --message="Configuring NGINX web server..."
-
-# Create a dedicated nginx config
-ynh_add_nginx_config
-
-#=================================================
 # PHP-FPM CONFIGURATION
 #=================================================
 ynh_script_progression --message="Configuring PHP-FPM..."
@@ -91,6 +83,14 @@ ynh_script_progression --message="Configuring PHP-FPM..."
 # Create a dedicated php-fpm config
 ynh_add_fpm_config
 phpversion=$(ynh_app_setting_get --app=$app --key=phpversion)
+
+#=================================================
+# NGINX CONFIGURATION
+#=================================================
+ynh_script_progression --message="Configuring NGINX web server..."
+
+# Create a dedicated nginx config
+ynh_add_nginx_config
 
 #=================================================
 # SETUP LOGROTATE

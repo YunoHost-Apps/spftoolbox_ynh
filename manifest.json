@@ -3,10 +3,10 @@
     "id": "spftoolbox",
     "packaging_format": 1,
     "description": {
-        "en": "Look up DNS records such as SPF, MX, Whois, and more",
-        "fr": "Recherchez des enregistrements DNS tels que SPF, MX, Whois, etc."
+        "en": "Look up DNS records such as SPF, MX, Whois",
+        "fr": "Recherchez des enregistrements DNS tels que SPF, MX, Whois"
     },
-    "version": "2.1.1~ynh1",
+    "version": "2.1.1~ynh2",
     "url": "http://spftoolbox.com/",
     "upstream": {
         "license": "MIT",
@@ -21,19 +21,18 @@
         "url": "https://www.abld.info"
     },
     "requirements": {
-        "yunohost": ">= 4.2.4"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
         "nginx",
-        "php7.3-fpm"
+        "php7.4-fpm"
     ],
     "arguments": {
         "install" : [
             {
                 "name": "domain",
-                "type": "domain",
-                "example": "example.com"
+                "type": "domain"
             },
             {
                 "name": "path",
