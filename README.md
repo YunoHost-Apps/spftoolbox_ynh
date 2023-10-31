@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # SPFtoolbox for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![Working status](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![Working status](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)
+
 [![Install SPFtoolbox with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -29,7 +30,7 @@ Look up DNS records such as SPF, MX, Whois
 
 * Official app website: <http://spftoolbox.com/>
 * Upstream app code repository: <https://github.com/charlesabarnes/SPFtoolbox>
-* YunoHost documentation for this app: <https://yunohost.org/app_spftoolbox>
+* YunoHost Store: <https://apps.yunohost.org/app/spftoolbox>
 * Report a bug: <https://github.com/YunoHost-Apps/spftoolbox_ynh/issues>
 
 ## Developer info
