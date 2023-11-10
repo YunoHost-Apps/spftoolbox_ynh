@@ -1,0 +1,57 @@
+packaging_format = 2
+
+id = "spftoolbox"
+name = "SPFtoolbox"
+description.en = "Look up DNS records such as SPF, MX, Whois"
+description.fr = "Recherchez des enregistrements DNS tels que SPF, MX, Whois"
+
+version = "2.1.1~ynh3"
+
+maintainers = ["frju365"]
+
+[upstream]
+license = "MIT"
+website = "http://spftoolbox.com/"
+demo = "http://spftoolbox.com/"
+code = "https://github.com/charlesabarnes/SPFtoolbox"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/spftoolbox"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/charlesabarnes/SPFtoolbox/archive/9306bf871c5dbc6115b75551396e90357b2b6106.tar.gz"
+        sha256 = "7730309c43b8517d89dc0c0799b96bb595164f958417159dfeefa0e0036df7f5"
+
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "whois, php7.4-fpm"
