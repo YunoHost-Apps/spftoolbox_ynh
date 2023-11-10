@@ -4,10 +4,10 @@
 # COMMON VARIABLES
 #=================================================
 
-YNH_PHP_VERSION="7.4"
+#REMOVEME? YNH_PHP_VERSION="7.4"
 
 # dependencies used by the app
-pkg_dependencies="whois"
+#REMOVEME? pkg_dependencies="whois"
 
 #=================================================
 # PERSONAL HELPERS
