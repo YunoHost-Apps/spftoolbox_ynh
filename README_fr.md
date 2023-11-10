@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Recherchez des enregistrements DNS tels que SPF, MX, Whois
 
-**Version incluse :** 2.1.1~ynh2
+**Version incluse :** 2.1.1~ynh3
 
 **Démo :** http://spftoolbox.com/
 
