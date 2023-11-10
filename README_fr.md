@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 SPF Toolbox a été créé pour être un moyen open source simple et gratuit permettant aux utilisateurs d'obtenir des informations sur leur domaine.
 
-**Version incluse :** 2.1.1~ynh3
+**Version incluse :** 2.1.1~ynh4
 
 **Démo :** http://spftoolbox.com/
 
