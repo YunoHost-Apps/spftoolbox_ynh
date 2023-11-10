@@ -1,0 +1,1 @@
+SPF Toolbox a été créé pour être un moyen open source simple et gratuit permettant aux utilisateurs d'obtenir des informations sur leur domaine.
