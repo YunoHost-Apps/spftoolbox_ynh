@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Look up DNS records such as SPF, MX, Whois
 
-**Shipped version:** 2.1.1~ynh2
+**Shipped version:** 2.1.1~ynh3
 
 **Demo:** http://spftoolbox.com/
 
