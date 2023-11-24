@@ -5,7 +5,7 @@ name = "SPFtoolbox"
 description.en = "Look up DNS records such as SPF, MX, Whois"
 description.fr = "Recherchez des enregistrements DNS tels que SPF, MX, Whois"
 
-version = "2.1.1~ynh4"
+version = "2.1.1~ynh5"
 
 maintainers = ["frju365"]
 
@@ -54,4 +54,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "whois, php7.4-fpm"
+    packages = "whois, php8.2-fpm"
