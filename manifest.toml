@@ -44,7 +44,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/charlesabarnes/SPFtoolbox/archive/7cb0b211dd740a8f6730d1c566be79d96b582451.tar.gz"
         sha256 = "b2f0ecca500cc54971c31b7ec1db16b499a971cbf0a6a478dda879186ac1d001"
-
+        autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
