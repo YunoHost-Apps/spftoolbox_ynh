@@ -5,7 +5,7 @@ name = "SPFtoolbox"
 description.en = "Look up DNS records such as SPF, MX, Whois"
 description.fr = "Recherchez des enregistrements DNS tels que SPF, MX, Whois"
 
-version = "2.1.1~ynh5"
+version = "2023.11.17~ynh1"
 
 maintainers = ["frju365"]
 
@@ -42,8 +42,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/charlesabarnes/SPFtoolbox/archive/7cb0b211dd740a8f6730d1c566be79d96b582451.tar.gz"
-        sha256 = "b2f0ecca500cc54971c31b7ec1db16b499a971cbf0a6a478dda879186ac1d001"
+        url = "https://github.com/charlesabarnes/SPFtoolbox/archive/f18d3087404d0b82c7de4297c64b29af9859a537.tar.gz"
+        sha256 = "2b8a76c53b0892db267f91e126f88e5fd8f490a68766b88439f66a7d8acaabc9"
         autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
