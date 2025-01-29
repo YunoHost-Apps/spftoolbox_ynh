@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # SPFtoolbox for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![Working status](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/spftoolbox)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
+![Working status](https://apps.yunohost.org/badge/state/spftoolbox)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/spftoolbox)
 
 [![Install SPFtoolbox with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
 

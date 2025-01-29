@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # SPFtoolbox YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/spftoolbox)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/spftoolbox)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/spftoolbox)
 
 [![Instalatu SPFtoolbox YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
 
