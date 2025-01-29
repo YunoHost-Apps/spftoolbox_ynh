@@ -7,7 +7,7 @@ description.fr = "Recherchez des enregistrements DNS tels que SPF, MX, Whois"
 
 version = "2023.11.17~ynh2"
 
-maintainers = ["frju365"]
+maintainers = []
 
 [upstream]
 license = "MIT"
