@@ -21,7 +21,7 @@ No se debe editar a mano.
 SPF Toolbox was created to be an easy, free open source way for people to get information about their domain.
 
 
-**Versión actual:** 2023.11.17~ynh1
+**Versión actual:** 2023.11.17~ynh2
 
 **Demo:** <http://spftoolbox.com/>
 
