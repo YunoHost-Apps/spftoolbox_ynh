@@ -5,7 +5,9 @@
 
 # YunoHost 上的 SPFtoolbox
 
-[![集成程度](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![工作状态](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/spftoolbox)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
+![工作状态](https://apps.yunohost.org/badge/state/spftoolbox)
+![维护状态](https://apps.yunohost.org/badge/maintained/spftoolbox)
 
 [![使用 YunoHost 安装 SPFtoolbox](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
 
@@ -19,7 +21,7 @@
 SPF Toolbox was created to be an easy, free open source way for people to get information about their domain.
 
 
-**分发版本：** 2023.11.17~ynh1
+**分发版本：** 2023.11.17~ynh2
 
 **演示：** <http://spftoolbox.com/>
 

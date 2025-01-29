@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # SPFtoolbox pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/spftoolbox)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/spftoolbox)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/spftoolbox)
 
 [![Installer SPFtoolbox avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
 
@@ -18,7 +20,7 @@ Il NE doit PAS être modifié à la main.
 
 SPF Toolbox a été créé pour être un moyen open source simple et gratuit permettant aux utilisateurs d'obtenir des informations sur leur domaine.
 
-**Version incluse :** 2023.11.17~ynh1
+**Version incluse :** 2023.11.17~ynh2
 
 **Démo :** <http://spftoolbox.com/>
 

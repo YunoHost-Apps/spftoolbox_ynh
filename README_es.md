@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # SPFtoolbox para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/spftoolbox.svg)](https://dash.yunohost.org/appci/app/spftoolbox) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/spftoolbox.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/spftoolbox.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/spftoolbox)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
+![Estado funcional](https://apps.yunohost.org/badge/state/spftoolbox)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/spftoolbox)
 
 [![Instalar SPFtoolbox con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=spftoolbox)
 
@@ -19,7 +21,7 @@ No se debe editar a mano.
 SPF Toolbox was created to be an easy, free open source way for people to get information about their domain.
 
 
-**Versión actual:** 2023.11.17~ynh1
+**Versión actual:** 2023.11.17~ynh2
 
 **Demo:** <http://spftoolbox.com/>
 
@@ -36,7 +38,7 @@ SPF Toolbox was created to be an easy, free open source way for people to get in
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/spftoolbox_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/spftoolbox_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
