@@ -12,12 +12,16 @@ Look up DNS records such as SPF, MX, Whois
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](http://spftoolbox.com/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](http://spftoolbox.com/)
-[![Version: 2025.05.12~ynh1](https://img.shields.io/badge/Version-2025.05.12~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
+[![Version: 2025.08.22~ynh1](https://img.shields.io/badge/Version-2025.08.22~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/spftoolbox/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/spftoolbox"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
 <a href="https://github.com/YunoHost-Apps/spftoolbox_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
+
+
+## Screenshots
+![Screenshot of SPFtoolbox](./doc/screenshots/687474703a2f2f692e696d6775722e636f6d2f4143785a5074512e706e67.png)
 
 ## 📦 Developer info
 
